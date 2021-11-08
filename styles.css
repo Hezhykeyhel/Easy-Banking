@@ -175,6 +175,7 @@ main{
     border-radius: 30px;
     padding: 4px 30px;
     font-size: 18px;
+    outline:none;
     background:var(--theme-lime-green);
     text-align: center;
     font-weight: bold;
