@@ -169,7 +169,7 @@ main{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    margin: 10px;
+    margin-right: 10px;
 }
 .myBtn{
     border:none;
