@@ -113,7 +113,8 @@ nav .logo{
     }
     .second-logo{
         position: absolute;
-        right: 300px;
+        text-align: center;
+        right: 50px;
     }
     .mainMenu li a{
         color: #fff;
