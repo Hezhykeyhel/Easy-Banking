@@ -233,6 +233,14 @@ main{
 .footer img{
     cursor: pointer;
 }
+.footer-img i{
+    font-size: 16px;
+}
+.footer-img{
+    color:car(--theme-lime-green);
+    transition: all .8s ease-in-out;
+    transform: translateY(-6px);
+}
 .second-logo:hover{
     cursor: pointer;
 }
