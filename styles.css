@@ -160,7 +160,7 @@ main{
 }
 .cyaner{
     background: var(--theme-bright-cyan);
-    padding: 4em 2em;
+    padding: 3em 2em;
     margin: 0 !important;
 }
 .desktop{
