@@ -106,7 +106,7 @@ nav .logo{
         text-align: center;
         flex-direction: column;
         align-items: center;
-        justify-content: center;
+        padding-top:10em;
         background: var(--grayish-blue);
         transition: ease .8s top;
         display: none;
