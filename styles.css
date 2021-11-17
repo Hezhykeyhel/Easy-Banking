@@ -147,6 +147,7 @@ nav .logo{
 main{
     padding-top: 7em;
     margin: 0 !important;
+    margin-bottom: 0 !important;
 }
 .first-container{
     padding-bottom: 10px;
